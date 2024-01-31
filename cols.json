@@ -1,11 +1,11 @@
 {
   "NAME": "name",
   "POSTER": "海报",
-  "MOVIE_TITLE": "电影/电视剧/番组",
-  "YEAR": "上映年份",
-  "DIRECTORS": "导演",
-  "ACTORS": "主演",
-  "GENRE": "类型",
+  "MOVIE_TITLE": "Name",
+  "YEAR": "Year",
+  "DIRECTORS": "Director",
+  "ACTORS": "Actor",
+  "GENRE": "Genre",
   "IMDB_LINK": "IMDb 链接",
   "COVER": "封面",
   "MUSIC_TITLE": "单曲/专辑",
@@ -18,8 +18,8 @@
   "ISBN": "ISBN",
   "GAME_TITLE": "游戏名称",
   "DRAMA_TITLE": "舞台剧名称",
-  "RATING": "个人评分",
-  "RATING_DATE": "打分日期",
-  "COMMENTS": "我的短评",
-  "ITEM_LINK": "条目链接"
+  "RATING": "Rate",
+  "RATING_DATE": "1st time",
+  "COMMENTS": "Comment",
+  "ITEM_LINK": "Douban link"
 }
